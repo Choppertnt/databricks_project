@@ -63,3 +63,6 @@ This project showcases the various functions of Databricks and AWS, as well as p
        <br>
        <i>Here is a workflow job that has completed successfully.</i>
    </p>
+
+## Result dashboard with Delta Lake Gold
+![Dash Board](image/dashboard_gold.png)
