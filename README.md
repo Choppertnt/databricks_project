@@ -29,3 +29,13 @@ This project showcases the various functions of Databricks and AWS, as well as p
        <br>
        <i>After following the steps above, you will get the result as shown in the image.</i>
    </p>
+
+3. **Create Databricks Cluster**:
+    - Typically, a Data Lake is used solely for data storage. If we want the Data Lake to also handle processing (Data Lakehouse)
+    , we need to create a Cluster.
+    - Databricks Cluster is use All purpose cluster.
+   <p align="center">
+       <img src="image/Compute.png" alt="Configure">
+       <br>
+       <i>After following the steps above, you will get the result as shown in the image.</i>
+   </p>
