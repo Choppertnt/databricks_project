@@ -39,3 +39,20 @@ This project showcases the various functions of Databricks and AWS, as well as p
        <br>
        <i>After following the steps above, you will get the result as shown in the image.</i>
    </p>
+
+4. **Databricks Notebook**:
+    - First project01-secrets.py , contains code to securely manage secrets and tokens.
+    - Second project02-connectS3.py , uses the secrets from project01 to connect and access S3 and mount S3 with DBFS.
+    - Third project03-Data to delta lake Bronze.py , retrieves CSV data from DBFS and exports it to Delta Lake Bronze.
+    - Forth project04-Data to delta lake Silver.py , uses Databricks SQL retrieves data from Delta Lake Bronze ,
+    cleans the data , and then exports it to Delta Lake Silver.
+    - Fivth project05-Data to delta lake Gold.py , ses Databricks SQL retrieves data from Delta Lake Silver ,
+    After cleaning the data, merge it into a single file for analysis. and then exports it to Delta Lake Gold.
+   
+   <p align="center">
+       <img src="image/catalog.png" alt="Configure">
+       <br>
+       <i>Example of Delta Lake.</i>
+   </p>
+ 
+   
