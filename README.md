@@ -24,6 +24,6 @@ This project showcases the various functions of Databricks and AWS, as well as p
 
 2. **Connect Cloud Formation**:
    - Set up the Databricks workspace by selecting Databricks to connect with databricks on AWS
-   ![Configure](image/consoleS3_2.png)
+   ![Configure](image/consoleS3_.png)
    
    *After following the steps above, you will get the result as shown in the image.*
