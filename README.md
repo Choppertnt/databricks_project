@@ -55,4 +55,11 @@ This project showcases the various functions of Databricks and AWS, as well as p
        <i>Example of Delta Lake.</i>
    </p>
  
-   
+5. **Databricks Workflows**:
+    - Create Databricks workflows and configure them to run the notebooks in sequence from 03 to 05
+    - It Can setup Schedules to run job.
+   <p align="center">
+       <img src="image/workflows.png" alt="Configure">
+       <br>
+       <i>Here is a workflow job that has completed successfully.</i>
+   </p>
