@@ -1,5 +1,5 @@
 # Aws and Databricks
-
+![Dash Board](image/workdiagram.png)
 ## Objective
 This project showcases the various functions of Databricks and AWS, as well as performing ETL (Extract, Transform, Load) using Databricks and AWS.
 
